@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon_Area" data-name="icon Area" width="48" height="48" rx="4" transform="translate(928 913)" fill="#f8f8f8"/>
+    </clipPath>
+  </defs>
+  <g id="w_002" transform="translate(-928 -913)" clip-path="url(#clip-path)">
+    <g id="Rounded_Rectangle_925" data-name="Rounded Rectangle 925">
+      <path id="Path_5" data-name="Path 5" d="M937,921h30v32H937Z" fill="none"/>
+      <path id="Path_6" data-name="Path 6" d="M940,924v26h24V924H940m-3-3h30v32H937Z" fill="#fff"/>
+    </g>
+    <g id="Rounded_Rectangle_926" data-name="Rounded Rectangle 926">
+      <path id="Path_7" data-name="Path 7" d="M943,927h18v3H943Z" fill="none"/>
+      <path id="Path_8" data-name="Path 8" d="M943,927h18v3H943Z" fill="#fff"/>
+    </g>
+    <g id="Rounded_Rectangle_927" data-name="Rounded Rectangle 927">
+      <path id="Path_9" data-name="Path 9" d="M943,933h18v3H943Z" fill="none"/>
+      <path id="Path_10" data-name="Path 10" d="M943,933h18v3H943Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="icon_Area" data-name="icon Area" width="48" height="48" rx="4" transform="translate(826 913)" fill="#f2f6ff"/>
+    </clipPath>
+  </defs>
+  <g id="w_001" transform="translate(-826 -913)" clip-path="url(#clip-path)">
+    <g id="Rounded_Rectangle_934" data-name="Rounded Rectangle 934">
+      <path id="Path_1" data-name="Path 1" d="M845,930h9a10,10,0,0,1,10,10v13H835V940A10,10,0,0,1,845,930Z" fill="none"/>
+      <path id="Path_2" data-name="Path 2" d="M845,933a7.008,7.008,0,0,0-7,7v10h23V940a7.008,7.008,0,0,0-7-7h-9m0-3h9a10,10,0,0,1,10,10v13H835V940A10,10,0,0,1,845,930Z" fill="#fff"/>
+    </g>
+    <g id="Rounded_Rectangle_935" data-name="Rounded Rectangle 935">
+      <path id="Path_3" data-name="Path 3" d="M840,921h19v6a6,6,0,0,1-6,6h-7a6,6,0,0,1-6-6Z" fill="none"/>
+      <path id="Path_4" data-name="Path 4" d="M843,924v3a3,3,0,0,0,3,3h7a3,3,0,0,0,3-3v-3H843m-3-3h19v6a6,6,0,0,1-6,6h-7a6,6,0,0,1-6-6Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

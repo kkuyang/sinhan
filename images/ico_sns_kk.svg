@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="ico_kakao" clip-path="url(#clip-path)">
+    <path id="ico_Box" data-name="ico Box" d="M83.262,88.009h-4.52c-9.4,0-13.739,3.616-13.739,13.74v4.52c0,10.125,4.338,13.74,13.739,13.74h4.52c9.4,0,13.739-3.616,13.739-13.74v-4.52C97,91.625,92.663,88.009,83.262,88.009Z" transform="translate(-65 -88.009)" fill="#ffe500"/>
+    <path id="Path_2" data-name="Path 2" d="M-2141.49,159.683c.026-.108.514-2.813.656-3.6a7.434,7.434,0,0,1-4.167-6.378c0-4.256,4.253-7.706,9.5-7.706s9.5,3.45,9.5,7.706-4.254,7.706-9.5,7.706a11.719,11.719,0,0,1-1.7-.124c-.387.28-3.429,2.482-3.865,2.674a.4.4,0,0,1-.161.037.275.275,0,0,1-.2-.1.275.275,0,0,1-.062-.217Z" transform="translate(2151.5 -135)" fill="#402325" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+  </g>
+</svg>

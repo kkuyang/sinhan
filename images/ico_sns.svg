@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="ico_sns_share_w" clip-path="url(#clip-path)">
+    <rect id="ico_area" data-name="ico area" width="24" height="24" fill="none"/>
+    <path id="ico" d="M17,14.85a3.374,3.374,0,0,0-2.293.906l-4.463-2.79a3.06,3.06,0,0,0,0-1.932l4.464-2.79A3.389,3.389,0,1,0,13.6,5.75a3.322,3.322,0,0,0,.157.966L9.293,9.506a3.4,3.4,0,1,0,0,4.989l4.463,2.789a3.361,3.361,0,0,0-.156.966,3.4,3.4,0,1,0,3.4-3.4Zm0-10.7a1.6,1.6,0,1,1-1.6,1.6A1.6,1.6,0,0,1,17,4.15ZM7,13.6A1.6,1.6,0,1,1,8.6,12,1.6,1.6,0,0,1,7,13.6Zm10,6.25a1.6,1.6,0,1,1,1.6-1.6A1.6,1.6,0,0,1,17,19.85Z" fill="#fff"/>
+  </g>
+</svg>
